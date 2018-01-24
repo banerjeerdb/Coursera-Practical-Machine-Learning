@@ -325,4 +325,4 @@ pml_write_files(predictions)
 ```r
 endTime <- Sys.time()
 ```
-The analysis was completed on Wed Jan 24 03:24:38 PM 2018  in 73 seconds.
+The analysis was completed on Wed Jan 24 03:24:38 PM 2018  in 73 seconds. 
